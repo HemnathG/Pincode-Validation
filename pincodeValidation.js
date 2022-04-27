@@ -9,5 +9,5 @@ function validatePincode(pincode){
         console.log(pincode + " : PINCODE is Invalid !");
 }
 
-validatePincode("600041");
-validatePincode("6001");
+validatePincode("400088");
+validatePincode("A400088");
