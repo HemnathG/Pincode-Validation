@@ -11,3 +11,4 @@ function validatePincode(pincode){
 
 validatePincode("400088");
 validatePincode("A400088");
+validatePincode("400088B");
